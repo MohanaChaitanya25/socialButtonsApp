@@ -1,6 +1,6 @@
-In this project, let's build a **Social Buttons** by applying the concepts we have learned till now.
+# Social Buttons
 
-### Refer to the image below:
+
 
 <br/>
 <div style="text-align: center;">
@@ -17,17 +17,7 @@ In this project, let's build a **Social Buttons** by applying the concepts we ha
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/social-buttons-lg-output.png)
 </details>
 
-### Completion Instructions
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `index.js`
-- `index.css`
-</details>
 
 ### Resources
 
@@ -55,7 +45,3 @@ Use these files to complete the implementation:
 - Bree Serif
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
